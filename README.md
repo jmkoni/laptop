@@ -35,9 +35,7 @@ What it sets up
 
 * [Bundler] for managing Ruby libraries
 * [Exuberant Ctags] for indexing files for vim tab completion
-* [Foreman] for serving Rails apps locally
 * [gh] for interacting with the GitHub API
-* [Heroku Toolbelt] for interacting with the Heroku API
 * [Homebrew] for managing operating system libraries
 * [ImageMagick] for cropping and resizing images
 * [Node.js] and [NPM], for running apps and installing JavaScript packages
@@ -52,14 +50,11 @@ What it sets up
 * [Ruby] stable for writing general-purpose code
 * [The Silver Searcher] for finding things in files
 * [Tmux] for saving project state and switching between projects
-* [Watch] for periodically executing a program and displaying the output
 * [Zsh] as your shell
 
 [Bundler]: http://bundler.io/
 [Exuberant Ctags]: http://ctags.sourceforge.net/
-[Foreman]: https://github.com/ddollar/foreman
 [gh]: https://github.com/jingweno/gh
-[Heroku Toolbelt]: https://toolbelt.heroku.com/
 [Homebrew]: http://brew.sh/
 [ImageMagick]: http://www.imagemagick.org/
 [Node.js]: http://nodejs.org/
@@ -75,7 +70,6 @@ What it sets up
 [Ruby]: https://www.ruby-lang.org/en/
 [The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
 [Tmux]: http://tmux.sourceforge.net/
-[Watch]: http://linux.die.net/man/1/watch
 [Zsh]: http://www.zsh.org/
 
 It should take less than 15 minutes to install (depends on your machine).
